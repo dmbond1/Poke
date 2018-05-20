@@ -1,0 +1,287 @@
+{
+    "pocketMonsters": [
+
+        {
+            "pokemonName": "Bulbasaur",
+            "pokedexNumber": "001",
+            "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger",
+            "pokemonImage": "assets/imgs/bulbasaur.png"
+        },
+
+        {
+            "pokemonName" : "Ivysaur",
+            "pokedexNumber" : "002",
+            "description" : "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+            "pokemonImage" : "assets/imgs/ivysaur.png"
+        },
+
+        {
+            "pokemonName" : "Venusaur",
+            "pokedexNumber" : "003",
+            "description" : "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.",
+            "pokemonImage" : "assets/imgs/venusaur.png"
+        },
+
+        {
+            "pokemonName" : "Charmander",
+            "pokedexNumber" : "004",
+            "description" : "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+            "pokemonImage" : "assets/imgs/charmander.png"
+        },
+
+        {
+            "pokemonName" : "Charmeleon",
+            "pokedexNumber": "005",
+            "description" : "When it swings its burning tail, it elevates the air temperature to unbearably high levels.",
+            "pokemonImage" : "assets/imgs/charmeleon.png"
+        },
+
+        {
+            "pokemonName" : "Charizard",
+            "pokedexNumber" : "006",
+            "description" : "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+            "pokemonImage" : "assets/imgs/charizard.png"
+        },
+
+        {
+            "pokemonName" : "Squirtle",
+            "pokedexNumber" : "007",
+            "description" : "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+            "pokemonImage" : "assets/imgs/squirtle.png"
+        },
+
+        {
+            "pokemonName" : "Wartortle",
+            "pokedexNumber" : "008",
+            "description" : "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+            "pokemonImage" : "assets/imgs/wartortle.png"
+        },
+
+        {
+            "pokemonName" : "Blastoise",
+            "pokedexNumber" : "009",
+            "description" : "The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.",
+            "pokemonImage" : "assets/imgs/blastoise.png"
+        },
+
+        {
+            "pokemonName": "Caterpie",
+            "pokedexNumber": "010",
+            "description": "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.",
+            "pokemonImage": "assets/imgs/caterpie.png"
+        },
+
+        {
+            "pokemonName": "Metapod",
+            "pokedexNumber": "011",
+            "description": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+            "pokemonImage": "assets/imgs/metapod.png"
+        },
+
+        {
+            "pokemonName": "Butterfree",
+            "pokedexNumber": "012",
+            "description": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+            "pokemonImage": "assets/imgs/butterfree.png"
+        },
+
+        {
+            "pokemonName": "Weedle",
+            "pokedexNumber": "013",
+            "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+            "pokemonImage": "assets/imgs/weedle.png"
+        },
+
+        {
+            "pokemonName": "Kakuna",
+            "pokedexNumber": "014",
+            "description": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+            "pokemonImage": "assets/imgs/kakuna.png"
+        },
+
+        {
+            "pokemonName": "Beedrill",
+            "pokedexNumber": "015",
+            "description": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+            "pokemonImage": "assets/imgs/beedrill.png"
+        },
+
+        {
+            "pokemonName": "Pidgey",
+            "pokedexNumber": "016",
+            "description": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+            "pokemonImage": "assets/imgs/pidgey.png"
+        },
+
+        {
+            "pokemonName": "Pidgeotto",
+            "pokedexNumber": "017",
+            "description": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
+            "pokemonImage": "assets/imgs/pidgeotto.png"
+        },
+
+        {
+            "pokemonName": "Pidgeot",
+            "pokedexNumber": "018",
+            "description": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+            "pokemonImage": "assets/imgs/pidgeot.png"
+        },
+
+        {
+            "pokemonName": "Rattata",
+            "pokedexNumber": "019",
+            "description": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+            "pokemonImage": "assets/imgs/rattata.png"
+        },
+
+        {
+            "pokemonName": "Raticate",
+            "pokedexNumber": "020",
+            "description": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+            "pokemonImage": "assets/imgs/raticate.png"
+        },
+
+        {
+            "pokemonName": "Spearow",
+            "pokedexNumber": "021",
+            "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "pokemonImage": "assets/imgs/spearow.png"
+        },
+
+        {
+            "pokemonName": "Fearow",
+            "pokedexNumber": "022",
+            "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+            "pokemonImage": "assets/imgs/fearow.png"
+        },
+
+        {
+            "pokemonName": "Ekans",
+            "pokedexNumber": "023",
+            "description": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "pokemonImage": "assets/imgs/ekans.png"
+        },
+
+        {
+            "pokemonName": "Arbok",
+            "pokedexNumber": "024",
+            "description": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+            "pokemonImage": "assets/imgs/arbok.png"
+        },
+
+        {
+            "pokemonName": "Pikachu",
+            "pokedexNumber": "025",
+            "description": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+            "pokemonImage": "assets/imgs/pikachu.png"
+        },
+
+        {
+            "pokemonName": "Raichu",
+            "pokedexNumber": "026",
+            "description": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+            "pokemonImage": "assets/imgs/raichu.png"
+        },
+
+        {
+            "pokemonName": "Sandshrew",
+            "pokedexNumber": "027",
+            "description": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+            "pokemonImage": "assets/imgs/sandshrew.png"
+        },
+
+        {
+            "pokemonName": "Sandslash",
+            "pokedexNumber": "028",
+            "description": "If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.",
+            "pokemonImage": "assets/imgs/sandslash.png"
+        },
+
+        {
+            "pokemonName": "Nidoran♀",
+            "pokedexNumber": "029",
+            "description": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns",
+            "pokemonImage": "assets/imgs/nidoranF.png"
+        },
+
+        {
+            "pokemonName": "Nidorina",
+            "pokedexNumber": "030",
+            "description": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+            "pokemonImage": "assets/imgs/nidorina.png"
+        },
+
+        {
+            "pokemonName": "Nidoqueen",
+            "pokedexNumber": "031",
+            "description": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
+            "pokemonImage": "assets/imgs/nidoqueen.png"
+        },
+
+        {
+            "pokemonName": "Nidoran♂",
+            "pokedexNumber": "032",
+            "description": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+            "pokemonImage": "assets/imgs/nidoranM.png"
+        },
+
+        {
+            "pokemonName": "Nidorino",
+            "pokedexNumber": "033",
+            "description": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+            "pokemonImage": "assets/imgs/nidorino.png"
+        },
+
+        {
+            "pokemonName": "Nidoking",
+            "pokedexNumber": "034",
+            "description": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+            "pokemonImage": "assets/imgs/nidoking.png"
+        },
+
+        {
+            "pokemonName": "Clefairy",
+            "pokedexNumber": "035",
+            "description": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+            "pokemonImage": "assets/imgs/clefairy.png"
+        },
+
+        {
+            "pokemonName": "Clefable",
+            "pokedexNumber": "036",
+            "description": "A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+            "pokemonImage": "assets/imgs/clefable.png"
+        },
+
+        {
+            "pokemonName": "Vulpix",
+            "pokedexNumber": "037",
+            "description": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.",
+            "pokemonImage": "assets/imgs/vulpix.png"
+        },
+
+        {
+            "pokemonName": "Ninetales",
+            "pokedexNumber": "038",
+            "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000 year curse.",
+            "pokemonImage": "assets/imgs/ninetales.png"
+        },
+
+        {
+            "pokemonName": "Jigglypuff",
+            "pokedexNumber": "039",
+            "description": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+            "pokemonImage": "assets/imgs/jigglypuff.png"
+        },
+
+        {
+            "pokemonName": "Wigglytuff",
+            "pokedexNumber": "040",
+            "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+            "pokemonImage": "assets/imgs/wigglytuff.png"
+        }
+    
+
+
+    ]
+}

@@ -1,0 +1,35 @@
+<ion-header>
+    <ion-navbar color="primary">
+      <button ion-button menuToggle>
+        <ion-icon name="menu"></ion-icon>
+      </button>
+      <ion-title align="center">Pokedex</ion-title>
+    </ion-navbar>
+    
+  </ion-header>
+
+<ion-content>
+  
+    <ion-grid *ngFor="let pocketMonster of pocketMonsters">
+      
+        <ion-row wrap>
+          <ion-col col-12 align="center" font-size="72">
+             <span (click)="itemTapped($event, pocketMonster)">
+            {{pocketMonster.pokedexNumber}} {{pocketMonster.pokemonName}}
+             </span>
+          </ion-col>
+        </ion-row>
+       <ion-row>
+         
+         <ion-col align="center">
+            
+           <img [src]="pocketMonster.pokemonImage" (click)="itemTapped($event, pocketMonster)" style="width:100px;height:100px;">
+           
+           
+        </ion-col>
+       </ion-row>
+      
+      </ion-grid>
+    
+</ion-content>
+          

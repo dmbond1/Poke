@@ -1,0 +1,39 @@
+
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Pokedex</ion-title>
+  </ion-navbar>
+ 
+</ion-header>
+
+
+<ion-content>
+
+  <ion-card>
+
+    <ion-card-content align="center">
+
+      <ion-card-title>
+        {{selectedPokemon.pokedexNumber}} {{selectedPokemon.pokemonName}}
+      </ion-card-title>
+      
+      <div align = "center">
+      <img [src] ="selectedPokemon.pokemonImage" style="width:200px; height:200px;">
+      </div>
+
+      <br />
+
+      <p>
+        {{selectedPokemon.description}}
+      </p>
+
+    </ion-card-content>
+
+  </ion-card>
+
+
+
+</ion-content>
